@@ -8,7 +8,8 @@ public class Main {
         System.out.println("Hello hehel!");
         System.out.println("hot-fix test!");
         System.out.println("push test!");
-
+        System.out.println("pull test!");
+        
 
     }
 }
